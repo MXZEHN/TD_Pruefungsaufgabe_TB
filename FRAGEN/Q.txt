@@ -1,0 +1,23 @@
+Hallo Stefan,
+
+aktuell habe ich das Problem, dass ich das "OSC in" aus Open Stage Control nicht so richtig in mein Touch Designer
+Projekt etabliert bekomme. Ich würde gerne zwischen den Kameras hin und her schalten können. Dabei gibt es leider
+zwei Probleme:
+
+Zum einen, in Open Stage Control, nutze ich eine Matrix mit 6 Buttons. Wenn ein Button aktiviert wird, deaktivieren
+sich andere aktive buttons leider nicht automatisch. Ich dachte man könnte das mit dem "mode" : "tap" umgehen. Nur leider
+funktioniert das nicht. Nach einmaligen klicken sind die Buttons in TD dauerhaft aktiv.
+
+Bisher habe ich die Documentation der OSC site durchforstet und Google genutzt. Beides ohne Erfolg.
+
+Weiterhin gelinkt es mir nicht, dem render TOP die richtige Kamera zu füttern. 
+
+OSC in -> Select (Kamera buttons) -> Chopto(DAT) -> select
+
+Das Ergebnis sind die Namen der Kameras mit einem Indikator (1/0) dahinter ob sie denn nun aktiviert/deaktiviert sind dahinter.
+Ich bräuchte aber nur den Namen der aktiven Kamera.
+
+Grüße
+
+Tobias
+
